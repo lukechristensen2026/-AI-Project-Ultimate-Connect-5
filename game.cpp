@@ -9,7 +9,7 @@
  * referenced code and discussion from Paul W. Bible and EliVanHaaren to learn raygame
  * A barebones and unfinished set of code previously discussed was used as the base for this project
  * referenced code from Michael Estes and user Snowbody on StackExchange to gain foundational ideas 
- * of coding connect 4
+ * of coding connect 4.
  * 
  * Game was completed myself
  * Game intelligence was developed myself
